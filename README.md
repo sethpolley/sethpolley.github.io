@@ -1,1 +1,1 @@
-# sethpolley
+This is my personal website! 
